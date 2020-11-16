@@ -1,6 +1,6 @@
 <?php
 
-$uuid = "02eec78e34fcf2e7df390899d0e55bd13548f61919cc29f01023ac5f48a5d2ff";
+$uuid = "<UUID>";
 $t = time() - 50;
 $u = "https://esick.student2020tasks.ctf.su/uploads/";
 
