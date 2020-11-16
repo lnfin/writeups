@@ -11,7 +11,7 @@ The UUID is 32 random bytes so bruteforce won't help. If we look at the html cod
 
 ![](https://i.imgur.com/cthRqQW.png)
 
-Let's write a simple php code that brute force timestamp and searches for the directory with our file. (*brute.php*)
+Let's write a simple php code that brute force timestamp and searches for the directory with our file. [*brute.php*](https://github.com/lnfin/writeups/blob/main/students/brute.php)
 
 Now upload the web shell, run the code and get access to the system. I used this [php shell](https://github.com/artyuum/Simple-PHP-Web-Shell).
 
