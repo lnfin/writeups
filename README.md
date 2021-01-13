@@ -1,3 +1,3 @@
 # CTF writeups
 
-This repository contains my author's solutions about CTF tasks.
+This repository contains my author's solutions on CTF tasks.
