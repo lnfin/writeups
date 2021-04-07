@@ -17,7 +17,7 @@ Open the website and realize that it doesn't trust us:
 See the response in BurpSuite:
 
 
-![Screenshot from 2021-04-07 22-48-51.png](../_resources/973a76e6d7ae4f278c1496331759df00.png)
+![Screenshot from BurpSuite](https://ibb.co/F3q18cr)
 
 Nothing interesting.
 
